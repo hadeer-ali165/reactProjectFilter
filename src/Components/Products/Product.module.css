@@ -26,3 +26,25 @@
         top: 200px !important;
     }
 }
+@media(max-width:430px)
+{
+    .box
+    {
+        width: 90%;
+    }
+    .box img
+    {
+        height: 150px;
+    }
+    .boxs img
+    {
+        height: 300px;
+    }
+}
+@media(max-width:362px)
+{
+    .boxs img
+    {
+        height: 260px;
+    }
+}

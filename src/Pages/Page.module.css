@@ -1,0 +1,18 @@
+.containerPage
+{
+    width: 70%;
+}
+@media(max-width:665px)
+{
+    .containerPage
+    {
+        width: 90%;
+    }
+}
+@media(max-width:391px)
+{
+    .containerPage
+    {
+        width: 95%;
+    }
+}

@@ -1,0 +1,28 @@
+.boxs
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+@media(max-width:1247px)
+{
+    .parent
+    {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media(max-width:985px)
+{
+    .box
+    {
+        width: 90%;
+    }
+}
+@media(max-width:727px)
+{
+    .pupp
+    {
+        width: 80% !important;
+        margin: auto;
+        top: 200px !important;
+    }
+}
